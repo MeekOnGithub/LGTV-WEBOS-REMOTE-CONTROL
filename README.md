@@ -5,6 +5,8 @@
 > A hacky implementation of webOS remote control API on an app.
 (Fork from [/throwaway96](https://github.com/throwaway96/webos-ssap-web))
 
+Still not done !
+
 **What this fork do ?**
 ------------
 
