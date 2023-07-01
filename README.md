@@ -1,7 +1,17 @@
-ssap-web
-========
+![image](https://github.com/MeekOnGithub/LGTV-WEBOS-REMOTE-CONTROL/assets/89902968/1303e111-0683-43db-add1-49f21c3a438d)
 
-A hacky implementation of webOS remote control API on the web.
+
+
+> A hacky implementation of webOS remote control API on an app.
+(Fork from [/throwaway96](https://github.com/throwaway96/webos-ssap-web))
+
+**What this fork do ?**
+------------
+
+- Make the web client, work in an app
+- Make it more beautiful and user-friendly
+- And add some Qol functions
+
 
 How it works
 ------------
@@ -22,14 +32,11 @@ mixed content security policies. Alternatively, user can be requested to
 manually approve self-signed certificate used for `wss://:3001` server exposed
 by webOS.
 
-Demo
-----
-
-Demo app in `index.html` can be used to preview current screen contents and
-perform basic remote control (arrow keys, enter = OK, escape = Back, home = Home)
 
 
 Credits
 -------
 
 Remote UI by [simon_34545](https://github.com/Simon34545).
+
+Original forked repository [/throwaway96](https://github.com/throwaway96/webos-ssap-web)
